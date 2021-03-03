@@ -1,0 +1,14 @@
+.bg-wild {
+    background-color: #f66c6c;
+}
+
+#map {
+    width: 800px;
+    height: 400px;
+}
+
+.avatar img{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}

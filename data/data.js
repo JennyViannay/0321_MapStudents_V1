@@ -137,17 +137,17 @@ var data = [
     },
     {
         "name": "Wissam Taleb",
-        "lat": 48.79152774451419,
-        "lng": 1.8884359111346325,
-        "city" : "78",
+        "lat": 48.84419436221948, 
+        "lng": 2.078848048052727,
+        "city" : "Bailly",
         "language" : "",
         "image" : "assets/images/wissam.jpg"
     },
     {
         "name": "Edouard Larroche",
-        "lat": 48.86403265662592,
-        "lng": 2.3474016675050007,
-        "city" : "Paris",
+        "lat": 48.80439207809389, 
+        "lng": 2.2864408730001697,
+        "city" : "Chatillon",
         "language" : "",
         "image" : "assets/images/edouard.jpg"
     },
@@ -185,9 +185,9 @@ var data = [
     },
     {
         "name": "Tom Carpentier",
-        "lat": 43.603413349471126,
-        "lng": 1.4331826052952095,
-        "city" : "Toulouse",
+        "lat": 43.55731690624007, 
+        "lng": 1.5489298720462275,
+        "city" : "Saint-Orens-de-Gameville",
         "language" : "",
         "image" : "assets/images/tom.jpg"
     },
@@ -225,9 +225,9 @@ var data = [
     },
     {
         "name": "Marie-Anne Duvieu",
-        "lat": 48.81414077361756,
-        "lng": 1.799172000450345,
-        "city" : "78",
+        "lat": 48.737676172261764,
+        "lng": 1.9526424766923511,
+        "city" : "Le Mesnil-Saint-Denis",
         "language" : "",
         "image" : "assets/images/maire-anne.jpg"
     },
@@ -289,9 +289,9 @@ var data = [
     },
     {
         "name": "Franck Bouchet",
-        "lat": 43.607596827797316,
-        "lng": 1.433525850164616,
-        "city" : "Lissac",
+        "lat": 43.22472812117028,, 
+        "lng": 1.5820955492853004,
+        "city" : "Saverdun",
         "language" : "",
         "image" : "assets/images/franck.jpg"
     },

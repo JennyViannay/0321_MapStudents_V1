@@ -289,7 +289,7 @@ var data = [
     },
     {
         "name": "Franck Bouchet",
-        "lat": 43.22472812117028,, 
+        "lat": 43.22472812117028, 
         "lng": 1.5820955492853004,
         "city" : "Saverdun",
         "language" : "",

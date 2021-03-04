@@ -1,8 +1,8 @@
 var data = [
     {
         "name": "Julien Fourneau",
-        "lat": 48.310876429847745,
-        "lng": 1.9968119466626884,
+        "lat": 48.30998235142949,
+        "lng": 1.9993801867681025,
         "city" : "Angerville",
         "language" : "",
         "image" : "assets/images/julienf.jpg"

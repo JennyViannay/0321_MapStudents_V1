@@ -329,8 +329,8 @@ var data = [
     },
     {
         "name": "Katalina",
-        "lat": 47.22400048181763, 
-        "lng": -1.5512862403080372,
+        "lat": 46.92583360469901, 
+        "lng": -1.5020111008756485,
         "city" : "",
         "language" : "JS",
         "image" : "assets/images/katalina.jpg"

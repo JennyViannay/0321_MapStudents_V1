@@ -61,7 +61,7 @@ var data = [
         "lng": 5.394909133977265,
         "city" : "Marseille",
         "language" : "",
-        "image" : "assets/images/hugo.jpg"
+        "image" : "assets/images/hugo.png"
     },
     {
         "name": "Baptiste Grias",
@@ -125,7 +125,7 @@ var data = [
         "lng": 2.4055971050049973,
         "city" : "Pré-St-Gervais",
         "language" : "",
-        "image" : "assets/images/justine.jpg"
+        "image" : "assets/images/justine.jpeg"
     },
     {
         "name": "Anaïs BERDUCAT",
@@ -221,7 +221,7 @@ var data = [
         "lng": -1.5634909340189918,
         "city" : "Nantes",
         "language" : "Javascript",
-        "image" : "assets/images/fanny.jpg"
+        "image" : "assets/images/fanny.png"
     },
     {
         "name": "Marie-Anne Duvieu",
@@ -321,28 +321,20 @@ var data = [
     },
     {
         "name": "Jenny",
-        "lat": 0,
-        "lng": 0,
+        "lat": 48.880568691175114, 
+        "lng": 2.365324955933162,
         "city" : "Paris",
         "language" : "PHP",
-        "image" : ""
+        "image" : "assets/images/jenny.jpg"
     },
     {
         "name": "Katalina",
-        "lat": 0,
-        "lng": 0,
+        "lat": 47.22400048181763, 
+        "lng": -1.5512862403080372,
         "city" : "",
         "language" : "JS",
-        "image" : ""
+        "image" : "assets/images/katalina.jpg"
     },
-    {
-        "name": "Katalina",
-        "lat": 0,
-        "lng": 0,
-        "city" : "",
-        "language" : "JS",
-        "image" : ""
-    }
 ]
 
 var jsName = document.getElementById('js-name')

@@ -277,7 +277,7 @@ var data = [
         "lng": 2.351178217572413,
         "city" : "Paris",
         "language" : "",
-        "image" : "assets/images/pualinel.jpg"
+        "image" : "assets/images/paulinel.jpg"
     },
     {
         "name": "Jérôme Shaaban",

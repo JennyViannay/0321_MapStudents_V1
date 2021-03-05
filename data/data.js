@@ -335,6 +335,14 @@ var data = [
         "language" : "JS",
         "image" : ""
     },
+    {
+        "name": "Katalina",
+        "lat": 0,
+        "lng": 0,
+        "city" : "",
+        "language" : "JS",
+        "image" : ""
+    }
 ]
 
 var jsName = document.getElementById('js-name')
